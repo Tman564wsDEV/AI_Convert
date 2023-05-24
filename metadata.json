@@ -1,0 +1,8 @@
+{
+  "extensionID": "ai_convert",
+  "displayName": "AI: Convert",
+  "author": "Your Name",
+  "description": "Converts letters and numbers between Unicode and binary representation.",
+  "category": "data",
+  "blocks": []
+}
